@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541649689990",
+    "firebase_url": "https://checkers-18539-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "checkers-18539",
+    "storage_bucket": "checkers-18539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541649689990:android:a45616720e6df15fe9a007",
+        "android_client_info": {
+          "package_name": "com.BubblGumGames.Checkers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541649689990-cojlgs7e9e5udovodb922sjlk6qngu93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMraooKu18NQcIEi3GqGx_ShcUHMuc_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541649689990-cojlgs7e9e5udovodb922sjlk6qngu93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
