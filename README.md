@@ -22,6 +22,7 @@ I just made this little project as a sample code , since I am looking for unity 
 * FireBase App , Authentification , RealTime DataBase (Package 8.3.0) <br />
 * facebook-unity-sdk-11.0.0 <br />
 
+You need to make your own realTime Database and setup firebase and facebook sdks on your own 
 ## Limitations:
 this is not a full game in anyway , this is just a small demo I made as a sample of my code . <br/><br/>
 There is lot of features that needs to be added like : <br/>
